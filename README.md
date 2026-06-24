@@ -17,7 +17,7 @@ Aprender Java de forma consistente, unindo teoria + prática diária, registrand
 - [x] Operadores Relacionais (`==`, `!=`, `>`, `<`, `>=`, `<=`)
 - [x] Operadores Lógicos (`&&`, `||`, `!`)
 - [x] Operadores de Atribuição (`=`, `+=`, `-=`, `*=`, `/=`, `%=`)
-- [ ] Estruturas Condicionais (`if`, `else`, `else if`)
+- [x] Estruturas Condicionais (`if`, `else`, `else if`)
 - [ ] Estruturas de Repetição (`for`, `while`, `do-while`)
 - [ ] Arrays
 - [ ] Métodos
