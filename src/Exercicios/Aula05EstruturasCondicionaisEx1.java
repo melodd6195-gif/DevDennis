@@ -1,4 +1,4 @@
-package academy.DevDennisjava.introdução;
+package Exercicios;
 
 public class Aula05EstruturasCondicionaisEx1 {
     public static void main(String[] args) {

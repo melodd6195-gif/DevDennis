@@ -1,6 +1,4 @@
-package academy.DevDennisjava.introdução;
-
-import java.sql.SQLOutput;
+package Exercicios;
 
 public class TiposPrimitivosExercicio2 {
     public static void main(String[] args) {

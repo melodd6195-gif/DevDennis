@@ -1,4 +1,4 @@
-package academy.DevDennisjava.introdução;
+package Exercicios;
 
 // Exercício 6
 //

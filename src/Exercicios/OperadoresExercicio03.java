@@ -1,10 +1,8 @@
-package academy.DevDennisjava.introdução;
+package Exercicios;
 
 //Crie três variáveis boolean representando se uma pessoa tem mais de 18 anos,
 // se tem documento, e se tem ingresso.
 // Combine os três com && pra saber se ela pode entrar no evento.
-
-import java.security.KeyStore;
 
 public class OperadoresExercicio03 {
     public static void main(String[] args) {

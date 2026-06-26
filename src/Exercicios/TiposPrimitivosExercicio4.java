@@ -1,4 +1,4 @@
-package academy.DevDennisjava.introdução;
+package Exercicios;
 
 public class TiposPrimitivosExercicio4 {
     public static void main(String[] args) {
